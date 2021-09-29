@@ -1,0 +1,15 @@
+C:\Users\Administrator\Workspace\dotnet\AirplaneReservationSystem\AppLibrary\bin\Debug\net5.0\AppLibrary.deps.json
+C:\Users\Administrator\Workspace\dotnet\AirplaneReservationSystem\AppLibrary\bin\Debug\net5.0\AppLibrary.dll
+C:\Users\Administrator\Workspace\dotnet\AirplaneReservationSystem\AppLibrary\bin\Debug\net5.0\ref\AppLibrary.dll
+C:\Users\Administrator\Workspace\dotnet\AirplaneReservationSystem\AppLibrary\bin\Debug\net5.0\AppLibrary.pdb
+C:\Users\Administrator\Workspace\dotnet\AirplaneReservationSystem\AppLibrary\obj\Debug\net5.0\AppLibrary.csproj.AssemblyReference.cache
+C:\Users\Administrator\Workspace\dotnet\AirplaneReservationSystem\AppLibrary\obj\Debug\net5.0\AppLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Workspace\dotnet\AirplaneReservationSystem\AppLibrary\obj\Debug\net5.0\AppLibrary.AssemblyInfoInputs.cache
+C:\Users\Administrator\Workspace\dotnet\AirplaneReservationSystem\AppLibrary\obj\Debug\net5.0\AppLibrary.AssemblyInfo.cs
+C:\Users\Administrator\Workspace\dotnet\AirplaneReservationSystem\AppLibrary\obj\Debug\net5.0\AppLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Workspace\dotnet\AirplaneReservationSystem\AppLibrary\obj\Debug\net5.0\AppLibrary.dll
+C:\Users\Administrator\Workspace\dotnet\AirplaneReservationSystem\AppLibrary\obj\Debug\net5.0\ref\AppLibrary.dll
+C:\Users\Administrator\Workspace\dotnet\AirplaneReservationSystem\AppLibrary\obj\Debug\net5.0\AppLibrary.pdb
+C:\Users\Administrator\Workspace\dotnet\AirplaneReservationSystem\AppLibrary\bin\Debug\net5.0\AppLibrary.runtimeconfig.json
+C:\Users\Administrator\Workspace\dotnet\AirplaneReservationSystem\AppLibrary\bin\Debug\net5.0\AppLibrary.runtimeconfig.dev.json
+C:\Users\Administrator\Workspace\dotnet\AirplaneReservationSystem\AppLibrary\obj\Debug\net5.0\AppLibrary.genruntimeconfig.cache
