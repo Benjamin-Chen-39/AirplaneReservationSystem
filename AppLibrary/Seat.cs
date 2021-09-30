@@ -12,5 +12,6 @@ namespace AppLibrary
         [Column(TypeName = "varchar(5)")]
         public string Occupant { get; set; } //type of occupant, "none", "adult", or "child"      
         public Section Section { get; set; }
+  
     }
 }

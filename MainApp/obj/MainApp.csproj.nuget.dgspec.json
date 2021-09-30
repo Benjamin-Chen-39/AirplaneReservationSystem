@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Administrator\\Workspace\\dotnet\\AirplaneReservationSystem\\MainApp\\MainApp.csproj": {}
+    "C:\\Users\\LTI\\AirplaneReservationSystem\\MainApp\\MainApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Administrator\\Workspace\\dotnet\\AirplaneReservationSystem\\AppLibrary\\AppLibrary.csproj": {
+    "C:\\Users\\LTI\\AirplaneReservationSystem\\AppLibrary\\AppLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Administrator\\Workspace\\dotnet\\AirplaneReservationSystem\\AppLibrary\\AppLibrary.csproj",
+        "projectUniqueName": "C:\\Users\\LTI\\AirplaneReservationSystem\\AppLibrary\\AppLibrary.csproj",
         "projectName": "AppLibrary",
-        "projectPath": "C:\\Users\\Administrator\\Workspace\\dotnet\\AirplaneReservationSystem\\AppLibrary\\AppLibrary.csproj",
-        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Administrator\\Workspace\\dotnet\\AirplaneReservationSystem\\AppLibrary\\obj\\",
+        "projectPath": "C:\\Users\\LTI\\AirplaneReservationSystem\\AppLibrary\\AppLibrary.csproj",
+        "packagesPath": "C:\\Users\\LTI\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\LTI\\AirplaneReservationSystem\\AppLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\LTI\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -72,21 +72,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.207\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Administrator\\Workspace\\dotnet\\AirplaneReservationSystem\\MainApp\\MainApp.csproj": {
+    "C:\\Users\\LTI\\AirplaneReservationSystem\\MainApp\\MainApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Administrator\\Workspace\\dotnet\\AirplaneReservationSystem\\MainApp\\MainApp.csproj",
+        "projectUniqueName": "C:\\Users\\LTI\\AirplaneReservationSystem\\MainApp\\MainApp.csproj",
         "projectName": "MainApp",
-        "projectPath": "C:\\Users\\Administrator\\Workspace\\dotnet\\AirplaneReservationSystem\\MainApp\\MainApp.csproj",
-        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Administrator\\Workspace\\dotnet\\AirplaneReservationSystem\\MainApp\\obj\\",
+        "projectPath": "C:\\Users\\LTI\\AirplaneReservationSystem\\MainApp\\MainApp.csproj",
+        "packagesPath": "C:\\Users\\LTI\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\LTI\\AirplaneReservationSystem\\MainApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\LTI\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -98,8 +98,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\Administrator\\Workspace\\dotnet\\AirplaneReservationSystem\\AppLibrary\\AppLibrary.csproj": {
-                "projectPath": "C:\\Users\\Administrator\\Workspace\\dotnet\\AirplaneReservationSystem\\AppLibrary\\AppLibrary.csproj"
+              "C:\\Users\\LTI\\AirplaneReservationSystem\\AppLibrary\\AppLibrary.csproj": {
+                "projectPath": "C:\\Users\\LTI\\AirplaneReservationSystem\\AppLibrary\\AppLibrary.csproj"
               }
             }
           }
@@ -128,7 +128,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.207\\RuntimeIdentifierGraph.json"
         }
       }
     }
